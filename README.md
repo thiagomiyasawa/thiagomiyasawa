@@ -1,4 +1,4 @@
-##Thiago Seiji Miyasawa
+
  <div>
   <a href="https://github.com/thiagomiyasawa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagomiyasawa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
